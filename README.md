@@ -1,40 +1,39 @@
-# luxe-webpage-
+# luxe- furniture Store 
+
+## ## Project Brief
+
+Luxe is a modern and elegant online furniture store designed to provide customers with a seamless shopping experience for high-quality furniture. The project focuses on a clean, idesign to ensure accessibility across various devices. The website is built using **HTML** for structure and **CSS** for styling, emphasizing a visually appealing and user-friendly presentation.
+
+## Core Features
+
+### Pages
+
+*   **Home Page:**
+    *   Showcases featured products, new arrivals, and promotional banners.
+    *   Provides easy navigation.
+    *   Includes a prominent call-to-action for browsing products.
+
+   *   **About Page:**
+    *   Provides information about the Luxe brand, its mission, and values.
+    *   Shares the story behind the furniture store.
+
+*   **Bog Page:**
+    * Ensure historical background stories and bliefs of the products 
+      
+    * The quality is carried by interestings facts about the products 
+
+    * In short the page explain the Background of the product 
+
+*   **Shop Page:**
+    *   Summarizes items added to the cart, showing quantity, price, and total cost.
+    *   Enables users to update quantities or remove items.
+    *   Proceeds to checkout.
+
+*   **Contact Us Page:**
+    *   Offers various ways for customers to get in touch, such as a contact form, email address, and phone number.
+    *   Includes a map for physical store locations (if applicable).
  
- # Furniture Store Website
+## Technologies Used
 
-A simple and elegant Furniture Store Website built using only HTML and CSS.
-
-# Project Overview
-
-The website showcases a modern furniture brand with warm and welcoming design elements. It includes multiple pages connected through a navigation bar and presents products, company information, and blog content.
-
-# Pages Included
-
-Landing Page – Introduction to the brand with a hero section.
-
-Home Page – Featured furniture collections and highlights.
-
-About Us – Brand story, mission, and values.
-
-Shop Page – Product listings with images, prices, and descriptions.
-
-Blog Page – Furniture stories, tips, and inspiration.
-
-Contact Page – Business contact information and location details.
-
-# Purpose of the Project
-
-- This project was created to practice:
-
-Building multi-page websites
-
-Designing with only HTML and CSS
-
-Structuring content professionally
-
-Creating visually appealing layouts
-
-
-# Author
-
-This webpage was created by Isaac Emmmanuel Igohe 
+*   **HTML:** For structuring the web content.
+*   **CSS:** For styling the web pages, ensuring a modern and responsive design.
